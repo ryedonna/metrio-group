@@ -7,7 +7,7 @@ A static website built using **PHP** and **Bootstrap**.
 ### Option A: Using Git (Recommended)
 
 1. Open **VS Code** or **Command Prompt / PowerShell**.
-2. Navigate to your preferred folder path: ```bash cd "C:\Users\Documents\Projects" ````
+2. Navigate to your preferred folder path to save this project
 3. Clone the repository
 4. Open the project folder
 
